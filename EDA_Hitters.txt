@@ -1,0 +1,37 @@
+Scanario 1. 
+Seperate all con and cat var
+
+.
+Scenario 2:
+ Find out no of missing values in each column
+
+.
+Scenario 3: 
+Find of people who have batted for more than 400 atches
+
+.
+Scenario 4: 
+Find out the name of the player who has hit max home runs
+
+.
+Scenario 5: 
+Find out league wise total number of players. 
+
+
+Scenario 6: 
+Find out division wise total amount of salary invested
+
+.
+Scenario 7: 
+Do univariate anlysis on all columns in the dataset using a loop
+Display 3 charts at a time
+
+.
+Scenario 8:
+ Do bivariate analysis of all columns with League column.
+
+
+Scenario 9: 
+Find out columns having highest correlation amongst each other.
+Scenario 10: 
+Find out five most senior players. 
